@@ -207,7 +207,7 @@ sub find_file {
                 if (-e $destfile){
                 #print "$filedir exists, file also exists, must create new dir...\n";
  
-                        my_freaking_label:      # What are you laughing at ? You gotta problem with my label ?
+                        my_freaking_label:      # What are you laughing at ? You gotta problem with my label ? :-)
 
 			$newfiledir = "$basedir/$jobname/$newdaystamp"; 
 
